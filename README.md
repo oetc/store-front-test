@@ -1,7 +1,4 @@
-store-front-test
-================
-
-## Store Test
+# Store Test
 
 ### Create a static HTML page for the OETC Store front. 
 
