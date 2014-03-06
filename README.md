@@ -5,7 +5,9 @@ Store Test
 
 ### Create a static HTML page for the OETC Store front. 
 
-One of the first things we need to do is update the OETC Store to Bootstrap 3.1.1. To evaluate a contractor's ability to execute task we ask that you re-write the OETC Store front page using BS 3.1.1. This re-write should use just stock Bootsrap loaded via the [Bootstrap CDN] (http://www.bootstrapcdn.com/). 
+One of the first things we need to do is update the OETC Store to Bootstrap 3.1.1. To evaluate a contractor's ability to execute task we ask that you re-write the [OETC Store front page] (http://store.oetc.org) using BS 3.1.1. This re-write should use just stock Bootsrap loaded via the [Bootstrap CDN] (http://www.bootstrapcdn.com/). 
+
+The current store page loads some items (the featured items and the top item lists) dynamically. You may grab any set of those items for your purposes.
 
 #### What we are looking for. 
 Here are some things we will be evaluating to decide who we will work with moving forward: 
