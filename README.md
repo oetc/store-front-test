@@ -15,7 +15,7 @@ Here are some things we will be evaluating to decide who we will work with movin
 * Better use of BS3 panels for top lists
 * Better use of Thumbnails > Custom Content for featured items
 * How you approach SEO through the use of Titles, Meta Descriptions, etc
-* How you approach page load speed through the 
+* How you handle the multi-column Brands dropdown using stock boostrap
 
 #### What we are not looking for. 
 No Bootstrap customization needed. Stock Bootstrap is all we want and the only CSS file we want called. We are not looking for a redesign of the front page. We certainly will tackle that, but for this test we are merely looking for a recreation of the front page using BS3 versus the current BS2. Also, the links don’t need to go anywhere, there should be a single index.html file and all the dependencies (images, etc) to make that page render, but no additional pages. 
