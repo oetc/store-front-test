@@ -1,0 +1,33 @@
+@media all and (max-width: 999px) {
+
+	header#header .navbar-form,
+	header#header .brands .col-md-3
+	{ display: none;}
+	header#header .brands{ width: 240px !important;}
+
+}
+
+
+@media all and (max-width: 768px) {
+
+	header#header .navbar-form,
+	header#header .brands .col-md-3
+	{ display: none;}
+	header#header .brands .col-md-3{}
+
+
+	footer#footer { text-align: center !important;}
+	footer#footer h5{ 
+		text-align: center !important; 
+		padding: 10px 0 !important; 
+		max-width: 200px; margin: 0 auto; 
+		color: #ccc; 
+		font-weight: bold;
+	}
+	footer#footer .col-md-12{ color: #ccc; font-size: 12px;}
+	#mc_embed_signup{
+		max-width: 260px;
+		margin: 0 auto 20px auto;
+	}
+
+}
